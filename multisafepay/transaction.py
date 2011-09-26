@@ -15,7 +15,7 @@ transaction_template = '''<?xml version="1.0" encoding="UTF-8" ?>
         <site_secure_code>%(site_secure_code)s</site_secure_code>
         <notification_url>%(notification_url)s</notification_url>
         <cancel_url>%(cancel_url)s</cancel_url>
-        <redirect_url></redirect_url>
+        <redirect_url>%(redirect_url)s</redirect_url>
         <close_window>false</close_window>
     </merchant>
     <customer>
