@@ -1,0 +1,15 @@
+MANIFEST.in
+setup.py
+etc/serve.ini
+multisafepay/__init__.py
+multisafepay/status.py
+multisafepay/test_msp.py
+multisafepay/testhttpserver.py
+multisafepay/transaction.py
+multisafepay.egg-info/PKG-INFO
+multisafepay.egg-info/SOURCES.txt
+multisafepay.egg-info/dependency_links.txt
+multisafepay.egg-info/entry_points.txt
+multisafepay.egg-info/not-zip-safe
+multisafepay.egg-info/requires.txt
+multisafepay.egg-info/top_level.txt

@@ -1,0 +1,3 @@
+recursive-include multisafepay *
+recursive-include etc *
+global-exclude *pyc

@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: multisafepay
+Version: 0.1.5
+Summary: Multisafepay integration
+Home-page: http://www.pareto.nl
+Author: Jan Murre
+Author-email: jan.murre@pareto.nl
+License: Apache
+Description: This package enables you to talk to a multisafepay
+              payment provider. There is not much documentation at the moment. In the
+              package are tests that give you a good starting point.
+        
+Platform: UNKNOWN
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
