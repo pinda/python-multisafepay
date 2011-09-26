@@ -1,0 +1,5 @@
+Multisafepay integration
+
+This package enables you to talk to a multisafepay payment provider. 
+There is not much documentation at the moment. 
+In the package are tests that give you a good starting point.
